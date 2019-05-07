@@ -1,6 +1,6 @@
 # Logic Attention Network (LAN)
 
-This is a TensorFlow implementation of [Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding](https://arxiv.org/pdf/1811.01399.pdf) (AAAI 2019)
+This is a TensorFlow implementation of [Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding](https://arxiv.org/pdf/1811.01399.pdf) (AAAI 2019).
 
 ## Run the code
 
