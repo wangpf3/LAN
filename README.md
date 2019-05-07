@@ -11,10 +11,10 @@ $ ./run.sh ./configs/model_name.sh
 ## Cite
 
 ```
-@inproceedings{wang2018logic,
+@inproceedings{lan_aaai19,
   title={Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding},
   author={Wang, Peifeng and Han, Jialong and Li, Chenliang and Pan, Rong},
-  booktitle={Thirty-Third AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the Thirty-Third Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
   year={2019}
 }
 ```
